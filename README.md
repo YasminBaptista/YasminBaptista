@@ -1,16 +1,16 @@
-### Hi there 👋
+### Boas vindas ao meu perfil 🦋
 
-<!--
-**YasminBaptista/YasminBaptista** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Yasmin Queiroz Baptista
 
-Here are some ideas to get you started:
+* Estou estudando na escola Carrara
+* Estou me desenvolvendo na linguagem
+* utilizo esse espaço para minha organizaçao e compartilhamento de meus projetos desenvolvidos
+* 
+* ### Voce pode entrar em contato comigo 📧
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+00001114396746SP@al.educacao.sp.gov.br
+
+@pei.carrara
+
+![_]()
+https://tenor.com/pt-BR/view/choaruiburey-vaguibu-gif-12324115614053945085
